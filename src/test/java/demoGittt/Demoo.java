@@ -12,5 +12,7 @@ System.out.println("second Committt");
 System.out.println("Third commit");
 System.out.println("second Committt");
 System.out.println("Third commit");
+System.out.println("second Committt");
+System.out.println("Third commit");
 }
 }
