@@ -8,6 +8,9 @@ public class Demoo
 public void demo()
 {
 	System.out.println("First Committt");
-System.out.println("second Committt");	
+System.out.println("second Committt");
+System.out.println("Third commit");
+System.out.println("second Committt");
+System.out.println("Third commit");
 }
 }
